@@ -5,7 +5,11 @@ Public meetings minutes and agendas for the Digital Defiance Guild
  - [2023 Q3](https://github.com/Digital-Defiance/Guild-Meetings/blob/main/2023-Q3.md)
 
    July 22 2023, 9A pacific, 11a central, 5p Portugal
-   
+
+ - [2023 Q3 - Board](https://github.com/Digital-Defiance/Guild-Meetings/blob/main/2023-Q3-BOARD.md)
+
+   TBD
+  
 ## Past
 
 ----
