@@ -14,3 +14,5 @@ Public meetings minutes and agendas for the Digital Defiance Guild
 
 ----
 Digital Defiance intends to hold Quarterly meetings, beginning Q3 2023.
+
+- [https://github.com/Digital-Defiance/Guild-Meetings/blob/main/2024-May-BOARD.md](May 2024 Board meeting)
